@@ -18,15 +18,23 @@ Scored 1–5 per criterion. Max 20.
 4. **Trades.** Fast pain (speed-to-lead, quote follow-up, review requests), good cash, and you have 2 site references. But every GoHighLevel agency spams them, and they answer phones more than email.
 5. **Professional services.** Too broad. Real estate and insurance are buried in vendors, and accounting firms are in tax season Jan–Apr. **Use bookkeepers and accountants as referral partners, not targets.**
 
-## Recommendation: test 1, 3, 4
-Each one tests a different hypothesis:
-- **Nonprofits** = advantage-led (primary bet, ~50% of effort)
-- **B2B HubSpot** = budget-led (~25%)
-- **Trades** = reference/network-led (~25%)
+## Decision (2026-10-06): test B2B HubSpot, trades, agencies
+Nonprofits are **out for now** (Dakota's call), and so are associations since they're a nonprofit variant.
+Third slot goes to a sharpened version of #5:
 
-Cut: professional services (they become partners). Park: associations (they can reuse the nonprofit page later).
+| 6 | Small agencies (marketing / creative / web, 5–30 staff) | 4 | 4 | 4 | 3 | **15** |
+
+Agencies: client onboarding, reporting, and proposal → project → invoice handoffs are all manual. They're tech-comfortable, listed publicly (Clutch, Google Maps, LinkedIn), and read email. Accountants are skipped: tax season hits right when delivery would happen.
+
+Test set, with equal effort (~⅓ each) and the data picking the winner:
+- **B2B HubSpot**: budget-led
+- **Trades**: reference/network-led
+- **Agencies**: reachability-led
+
+Bookkeepers, accountants, and web designers stay as **referral partners**.
 
 ## Guardrails (non-negotiable)
 - Read your employment agreement for moonlighting, non-solicit, and IP clauses before anything goes public.
 - Suppress from every list any org you know or suspect is an employer customer. Never use employer data.
 - No SMS fundraising, auctions, or workplace giving, even as add-ons.
+- No nonprofit prospects during this test (keeps you clear of the employer's market).
